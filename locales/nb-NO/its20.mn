@@ -1,0 +1,10 @@
+bluegriffon-nb-NO.jar:
+% locale    its20    nb-NO    %locale/nb-NO/its20/
+  locale/nb-NO/its20/its20Overlay.dtd    (locale/nb-NO/its20Overlay.dtd)
+  locale/nb-NO/its20/its20.properties    (locale/nb-NO/its20.properties)
+  locale/nb-NO/its20/its20.dtd           (locale/nb-NO/its20.dtd)
+  locale/nb-NO/its20/translateRule.dtd   (locale/nb-NO/translateRule.dtd)
+  locale/nb-NO/its20/locNoteRule.dtd     (locale/nb-NO/locNoteRule.dtd)
+  locale/nb-NO/its20/termRule.dtd        (locale/nb-NO/termRule.dtd)
+  locale/nb-NO/its20/selector.dtd        (locale/nb-NO/selector.dtd)
+

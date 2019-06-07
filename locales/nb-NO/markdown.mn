@@ -1,0 +1,5 @@
+markdown-nb-NO.jar:
+%   locale  markdown              nb-NO    %locale/nb-NO/markdown/
+   locale/nb-NO/markdown/markdownOverlay.dtd  (locale/nb-NO/markdownOverlay.dtd)
+   locale/nb-NO/markdown/markdown.dtd         (locale/nb-NO/markdown.dtd)
+   

@@ -1,0 +1,15 @@
+bluegriffon-nb-NO.jar:
+% locale    cssproperties    nb-NO    %locale/nb-NO/cssproperties/
+  locale/nb-NO/cssproperties/csspropertiesOverlay.dtd    (locale/nb-NO/csspropertiesOverlay.dtd)
+  locale/nb-NO/cssproperties/cssproperties.dtd           (locale/nb-NO/cssproperties.dtd)
+  locale/nb-NO/cssproperties/editGridTemplate.dtd        (locale/nb-NO/editGridTemplate.dtd)
+  locale/nb-NO/cssproperties/backgrounditem.dtd          (locale/nb-NO/backgrounditem.dtd)
+  locale/nb-NO/cssproperties/griditemposition.dtd        (locale/nb-NO/griditemposition.dtd)
+  locale/nb-NO/cssproperties/transformationitem.dtd      (locale/nb-NO/transformationitem.dtd)
+  locale/nb-NO/cssproperties/transitionitem.dtd          (locale/nb-NO/transitionitem.dtd)
+  locale/nb-NO/cssproperties/textshadowitem.dtd          (locale/nb-NO/textshadowitem.dtd)
+  locale/nb-NO/cssproperties/colorstopitem.dtd           (locale/nb-NO/colorstopitem.dtd)
+  locale/nb-NO/cssproperties/backgrounditem.properties   (locale/nb-NO/backgrounditem.properties)
+  locale/nb-NO/cssproperties/cssproperties.properties    (locale/nb-NO/cssproperties.properties)
+  locale/nb-NO/cssproperties/fontFeatures.properties     (locale/nb-NO/fontFeatures.properties)
+

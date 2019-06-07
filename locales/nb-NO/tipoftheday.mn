@@ -1,0 +1,5 @@
+tipoftheday-nb-NO.jar:
+%   locale  tipoftheday              nb-NO    %locale/nb-NO/tipoftheday/
+   locale/nb-NO/tipoftheday/tipoftheday.dtd  (locale/nb-NO/tipoftheday.dtd)
+   locale/nb-NO/tipoftheday/tipofthedayOverlay.dtd  (locale/nb-NO/tipofthedayOverlay.dtd)
+   locale/nb-NO/tipoftheday/tipoftheday.rdf  (locale/nb-NO/tipoftheday.rdf)

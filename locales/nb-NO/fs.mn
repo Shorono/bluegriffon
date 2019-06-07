@@ -1,0 +1,7 @@
+fs-nb-NO.jar:
+% locale    fs    nb-NO    %locale/nb-NO/fs/
+  locale/nb-NO/fs/fsOverlay.dtd    (locale/nb-NO/fsOverlay.dtd)
+  locale/nb-NO/fs/fs.dtd           (locale/nb-NO/fs.dtd)
+  locale/nb-NO/fs/fs.properties    (locale/nb-NO/fs.properties)
+  locale/nb-NO/fs/addFont.dtd      (locale/nb-NO/addFont.dtd)
+

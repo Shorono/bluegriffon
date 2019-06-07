@@ -1,0 +1,6 @@
+bluegriffon-nb-NO.jar:
+% locale    aria    nb-NO    %locale/nb-NO/aria/
+  locale/nb-NO/aria/ariaOverlay.dtd (locale/nb-NO/ariaOverlay.dtd)
+  locale/nb-NO/aria/aria.dtd        (locale/nb-NO/aria.dtd)
+  locale/nb-NO/aria/aria.properties (locale/nb-NO/aria.properties)
+

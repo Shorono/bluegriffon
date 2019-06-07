@@ -1,0 +1,6 @@
+gfd-nb-NO.jar:
+% locale    gfd    nb-NO    %locale/nb-NO/gfd/
+  locale/nb-NO/gfd/gfdOverlay.dtd    (locale/nb-NO/gfdOverlay.dtd)
+  locale/nb-NO/gfd/gfd.dtd           (locale/nb-NO/gfd.dtd)
+  locale/nb-NO/gfd/addFont.dtd       (locale/nb-NO/addFont.dtd)
+

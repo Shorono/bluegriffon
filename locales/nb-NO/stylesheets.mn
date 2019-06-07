@@ -1,0 +1,6 @@
+bluegriffon-nb-NO.jar:
+% locale    stylesheets    nb-NO		%locale/nb-NO/stylesheets/
+  locale/nb-NO/stylesheets/stylesheetsOverlay.dtd   (locale/nb-NO/stylesheetsOverlay.dtd)
+  locale/nb-NO/stylesheets/stylesheets.dtd          (locale/nb-NO/stylesheets.dtd)
+  locale/nb-NO/stylesheets/editor.dtd               (locale/nb-NO/editor.dtd)
+

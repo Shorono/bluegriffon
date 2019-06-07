@@ -1,0 +1,7 @@
+bluegriffon-nb-NO.jar:
+% locale    scripteditor    nb-NO		%locale/nb-NO/scripteditor/
+	locale/nb-NO/scripteditor/scripteditorOverlay.dtd		(locale/nb-NO/scripteditorOverlay.dtd)
+	locale/nb-NO/scripteditor/scripteditor.dtd		(locale/nb-NO/scripteditor.dtd)
+	locale/nb-NO/scripteditor/scripteditor.properties		(locale/nb-NO/scripteditor.properties)
+	locale/nb-NO/scripteditor/editor.dtd          (locale/nb-NO/editor.dtd)
+	

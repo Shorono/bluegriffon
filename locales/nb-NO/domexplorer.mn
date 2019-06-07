@@ -1,0 +1,5 @@
+bluegriffon-nb-NO.jar:
+% locale    domexplorer    nb-NO    %locale/nb-NO/domexplorer/
+  locale/nb-NO/domexplorer/domexplorerOverlay.dtd (locale/nb-NO/domexplorerOverlay.dtd)
+  locale/nb-NO/domexplorer/domexplorer.dtd        (locale/nb-NO/domexplorer.dtd)
+
