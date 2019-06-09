@@ -1,11 +1,11 @@
-<!ENTITY aboutDialog.title      "About &brandFullName;">
-<!ENTITY copyright              "Credits">
-<!ENTITY aboutLink              "&lt; About &brandFullName;">
-<!ENTITY aboutVersion           "version">
-<!ENTITY copyrightText          "&#169;1998-2019 Disruptive Innovations and Contributors. All Rights Reserved.">
+<!ENTITY aboutDialog.title      "Om &brandFullName;">
+<!ENTITY copyright              "Kreditering">
+<!ENTITY aboutLink              "&lt; Om &brandFullName;">
+<!ENTITY aboutVersion           "versjon">
+<!ENTITY copyrightText          "&#169;1998-2019 Disruptive Innovations og bidragsytere. Alle rettigheter er forbeholdt.">
 <!ENTITY cmdClose.macKey        "W">
-<!ENTITY codeName               "Codename">
+<!ENTITY codeName               "Kodenavn">
 
-<!ENTITY aboutTab.label         "About">
-<!ENTITY creditsTab.label       "License and Credits">
-<!ENTITY buildConfigTab.label   "Build Configuration">
+<!ENTITY aboutTab.label         "Om">
+<!ENTITY creditsTab.label       "Lisens and Kreditering">
+<!ENTITY buildConfigTab.label   "Versjonstrinnkonfigurasjon">
